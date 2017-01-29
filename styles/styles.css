@@ -1,0 +1,225 @@
+
+.navbar-brand
+{
+	font-family: 'Noto Serif', serif;
+	font-size: 22px;
+	color: #000000;
+	font-weight: bold;
+}
+
+.navbar-brand:hover
+{
+	color: #000000;
+}
+
+.navbar
+{
+	background-color: #F5F5F5;
+	font-family: 'Noto Sans', Serif;
+	box-shadow: 2px 2px 2px #888888;
+}
+
+.icon-bar
+{
+	background-color: #000000;
+}
+
+a
+{
+	font-weight: bold;
+	color: #000000;
+	font-size: 15px;
+}
+
+a:hover
+{
+	color: #000000;
+}
+
+.caret
+{
+	color: #000000;
+	font-size: 35px;
+}
+
+.dropdown-menu
+{
+	color: #F5F5F5;
+}
+
+#title-rect
+{
+	margin-top: 50px;
+	background-color: #000000;
+	color: #F5F5F5;
+	font-size: 500%;
+	font-family: 'Noto Serif', Serif;
+	text-align: center;
+}
+
+b
+{
+	font-family: 'Noto Sans', sans-serif;
+	text-align: center;
+}
+
+#page-info p
+{
+	font-family: 'Noto Sans', sans-serif;
+	text-align: left;
+}
+
+#page-info .row
+{
+	padding: 40px;
+}
+
+#page-info hr
+{
+	border-color: #eeeeee;
+	box-shadow: 4px 4px 4px #cccccc;
+}
+
+#page-info h3
+{
+	font-weight: 500;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+html 
+{
+  position: relative;
+  min-height: 100%;
+  overflow: auto;
+  overflow-x: hidden;
+
+}
+
+body 
+{
+  margin-bottom: 500px;
+  overflow-x: hidden;
+}
+
+#footer 
+{
+  position: absolute;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 250px;
+  background-color: #000000;
+  color: #F5F5F5;
+  font-family: 'Noto Sans', sans-serif;
+}
+
+#footer-title
+{
+	text-align: left;
+	padding-top: 50px;
+	padding-right: 50px;
+	padding-bottom: 30px;
+	padding-left: 50px;
+	font-family: 'Noto Serif', serif;
+	font-size: 22px;
+	font-weight: bold;
+}
+
+p
+{
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+hr
+{
+	margin-top: 0;
+	margin-bottom: 0;
+	margin-left: 50px;
+	margin-right: 50px;
+	border-color: #222222;
+}
+
+#footer-menu
+{
+	padding: 10px;
+	text-align: center;
+}
+
+#social-media-menu ul li
+{
+	list-style-type: none;
+	display: inline;
+}
+
+#social-media-menu img
+{
+	padding: 5px;
+}
+
+#update
+{
+	text-align: center;
+	font-family: 'Noto Sans', sans-serif;
+	color: #666666;
+	padding-top: 10px
+}
+
+#footer-menu a
+{
+	color: #F5F5F5;
+	font-family: 'Noto Sans', sans-serif;
+}
+
+#footer-menu a:hover
+{
+	color: white;
+}
+
+#footer-links a:hover
+{
+	text-decoration: none;
+}
+
+#footer-links p
+{
+	padding: 10px;
+}
+
+#email p
+{
+	text-align: center;
+}
+
+#title-bar h3
+{
+	text-align: center;
+	font-family: 'Noto Serif', serif;
+	padding: 0px;
+}
+
+#social-media-colour
+{
+	text-align: center;
+}
+
+#social-media-colour img
+{
+	padding-bottom: 20px;
+}
+
+#inspirations
+{
+	font-family: 'Noto Sans', sans-serif;
+	font-weight: bold;
+}
+
+.container
+{
+	width: 100%;
+}
+
+div#inspirations.row
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+}
